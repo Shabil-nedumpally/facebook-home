@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+}.top{
+    width: 100%;
+    height: 10%;
+    background: whitesmoke;
+    box-shadow: gray 0  0  0 1px;
+    float: left;
+
+
+
+}
+.logo{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 10px;
+}.search{
+    margin-left: 10px;
+    margin-top: 17px;
+    float:left;
+    border-radius: 10px; 
+    color: gray;
+    box-shadow: gray 1 1 1 1px ;
+    height:31px ;
+    width:230px ;
+
+}.home{
+    margin-left: 100px;
+
+}.notif{
+    margin-left: 41px;
+}.slideshow{
+    margin-left: 41px;
+}.profile{
+    margin-left: 41px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}.store{
+    margin-left: 41px;
+}.group{
+    margin-left: 41px;
+}.messanger{
+    margin-left: 41px;
+}.settings{
+    float: right;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    
+    margin-right: 10px;
+}.side-panel{
+    width: 300px;
+    height: 600px;
+    overflow-y: auto;
+    display: block;
+    box-shadow:gray 0 0 0 1px;
+    float: left;
+    
+    
+    
+
+}.side-panel a{
+    text-decoration: none;
+    text-align: left;
+    color: black;
+}.side-panel a:hover{
+    background-color: #ccc;
+}
+.middle{
+    float: left;
+    width: 700px;
+    height: 1200px;
+    background-color: whitesmoke;
+    margin-left: 1px;
+    margin-top: 1px;
+    padding-left: 45px;
+
+    
+    
+}
+.container{
+    width: 100%;
+    height: 100%;
+}.stories{
+    width: 100px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: white;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+}.addpost{
+    width: 550px;
+    height: 45px;
+    background-color: white;
+    float: left;
+    margin-top: 22px;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-left: 50px;
+}.post{
+    float: left;
+    width: 550px;
+    height: 50px;
+    background-color: white;
+    margin-top: 16px;
+    margin-left: 50px ;
+    padding-top: 8px;
+
+}.post-profile{
+    margin-left: 11px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border: solid blue;
+}
+.test:after {
+    content: '\2026';
+    font-size: 25px;
+    float: right;
+    margin-right: 15px;
+  }
+  .left-section{
+      width: 300px;
+      height: 1200px;
+      background-color: white;
+      float: left;
+      margin-top: 1px;
+      font-weight: bold;
+  }.postc-profile{
+    margin-left: 11px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border: solid blue;
+
+  }.contact-profile{
+    margin-left: 11px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+
+
+  }
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+.test:after {
+  content: '\2026';
+  font-size: 25px;
+  background-color: #D0D0D0;
+}
+<div class="test"></div>
+
+
+
+
+three dots button
